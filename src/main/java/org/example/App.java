@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello Zlata");
         Tester tester = new Tester();
-        tester.testRun();
-        //
+        tester.testRun();//
+
     }
 }
